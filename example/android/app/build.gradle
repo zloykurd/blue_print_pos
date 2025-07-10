@@ -33,7 +33,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.ayeee.blue_print_pos_example"
+        applicationId "kg.zkdev.blue_print_pos_example"
         minSdkVersion 19
         targetSdkVersion 32
         versionCode flutterVersionCode.toInteger()

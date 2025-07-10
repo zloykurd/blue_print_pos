@@ -1,4 +1,4 @@
-package com.ayeee.blue_print_pos
+package kg.zkdev.blue_print_pos
 
 import android.util.Log
 

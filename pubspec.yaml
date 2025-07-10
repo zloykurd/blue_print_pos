@@ -4,7 +4,7 @@ version: 0.0.16
 homepage: https://github.com/andriyoganp/blue_print_pos
 
 environment:
-  sdk: '>=3.4.3 <4.0.0'
+  sdk: '>=3.8.0 <4.0.0'
 
 dependencies:
   # Handler bluetooth for Android
@@ -32,7 +32,7 @@ flutter:
   plugin:
     platforms:
       android:
-        package: com.ayeee.blue_print_pos
+        package: kg.zkdev.blue_print_pos
         pluginClass: BluePrintPosPlugin
       ios:
         pluginClass: BluePrintPosPlugin

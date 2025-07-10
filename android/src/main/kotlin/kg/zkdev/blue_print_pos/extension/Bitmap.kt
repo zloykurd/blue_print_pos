@@ -1,4 +1,4 @@
-package com.ayeee.blue_print_pos.extension
+package kg.zkdev.blue_print_pos.extension
 
 import android.graphics.Bitmap
 import java.io.ByteArrayOutputStream

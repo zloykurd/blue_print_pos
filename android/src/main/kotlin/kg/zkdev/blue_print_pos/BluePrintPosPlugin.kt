@@ -1,4 +1,4 @@
-package com.ayeee.blue_print_pos
+package kg.zkdev.blue_print_pos
 
 import android.app.Activity
 import android.content.Context
@@ -9,8 +9,8 @@ import android.view.WindowInsets
 import android.webkit.WebView
 import android.webkit.WebViewClient
 import androidx.annotation.NonNull
-import com.ayeee.blue_print_pos.extension.toBitmap
-import com.ayeee.blue_print_pos.extension.toByteArray
+import kg.zkdev.blue_print_pos.extension.toBitmap
+import kg.zkdev.blue_print_pos.extension.toByteArray
 import io.flutter.embedding.engine.plugins.FlutterPlugin
 import io.flutter.embedding.engine.plugins.activity.ActivityAware
 import io.flutter.embedding.engine.plugins.activity.ActivityPluginBinding
