@@ -1,5 +1,5 @@
 plugins {
-    id "com.android.application"
+    id "com.android.library"
     id "kotlin-android"
 }
 
@@ -20,7 +20,6 @@ android {
     }
 
     defaultConfig {
-        applicationId "kg.zkdev.blue_print_pos"
         minSdkVersion 24
         targetSdkVersion 35
         versionCode = 1
