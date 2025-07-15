@@ -41,6 +41,10 @@ class BluePrintPos {
     return await BlueScanner.scan();
   }
 
+  static Future<Stream<flutter_blue.BluetoothAdapterState>> getState() async {
+    return BlueScanner.getState();
+  }
+
   /// When connecting, reassign value [selectedDevice] from parameter [device]
   /// and if connection time more than [timeout]
   /// will return [ConnectionStatus.timeout]
